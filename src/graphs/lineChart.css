@@ -1,0 +1,7 @@
+/* Make points visible on hover */
+.points {
+  visibility: hidden;
+}
+.points:hover {
+  visibility: visible;
+}
